@@ -10,10 +10,7 @@ Sintaks yang digunakan pada skrip ini adalah:
  - addEventListener()
  - appendChild()
 2. function
-
 3. alert
-
-4. looping menggunakan <for>
-
+4. looping menggunakan for
 5. array
 
